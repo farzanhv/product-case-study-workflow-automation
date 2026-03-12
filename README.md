@@ -1,5 +1,7 @@
  Workflow Automation SaaS – Product Case Study
+ Product case study: designing a workflow automation SaaS from problem discovery to product solution.
 
+ 
  Overview
 This case study shows how a workflow automation platform could help small businesses automate repetitive operational tasks such as onboarding, billing, and customer communication.
 
